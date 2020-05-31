@@ -14,7 +14,7 @@ Create a git repo in github
 * click on initialize readme.md*
 * Submit the form *
 
-##Result
+## Result
 
 * Your git repo is created and the link is displayed to you *
 
